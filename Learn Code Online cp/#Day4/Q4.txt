@@ -1,0 +1,3 @@
+Jack bought 400 Hotdogs for the School picnic.
+if they were contianed in package of 8 hotdog,how many total packages did he buy?
+*******Creat a Python Program without using \ or % Operators******************* 

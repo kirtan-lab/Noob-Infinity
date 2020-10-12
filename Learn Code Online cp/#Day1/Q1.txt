@@ -1,0 +1,1 @@
+There was a teacher in a small town who loves coding and he wants to creat program which prints out the whole multiplication table of an entered number for his students.can you help him to write a program in python?

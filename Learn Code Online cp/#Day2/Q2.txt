@@ -1,0 +1,8 @@
+Can you Help alex to print double sided stair-case pattern in python 
+Eg. 
+                   
+                **
+               ****
+              ******
+             ********
+            ********** 
